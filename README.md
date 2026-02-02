@@ -15,6 +15,3 @@ Quick start
 
 4. Run the application:
    - python pdf_templater.py
-
-Notes
-- The app no longer writes an export note file; exported PDFs are written to the selected output directory.
